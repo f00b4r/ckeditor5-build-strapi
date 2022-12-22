@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webkitty/ckeditor5-build-strapi"
+    "url": "https://github.com/f00b4r/ckeditor5-build-strapi"
   },
   "bugs": {
-    "url": "https://github.com/webkitty/ckeditor5-build-strapi/issues"
+    "url": "https://github.com/f00b4r/ckeditor5-build-strapi/issues"
   },
   "main": "./build/ckeditor.js",
   "files": [

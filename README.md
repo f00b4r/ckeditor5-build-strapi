@@ -9,8 +9,8 @@
 </p>
 
 <p align=center>
-    <a href="https://github.com/webkitty/ckeditor5-build-strapi/actions">
-        <img src="https://badgen.net/github/checks/webkitty/ckeditor5-build-strapi">
+    <a href="https://github.com/f00b4r/ckeditor5-build-strapi/actions">
+        <img src="https://badgen.net/github/checks/f00b4r/ckeditor5-build-strapi">
     </a>
     <a href="https://www.npmjs.com/package/ckeditor5-build-strapi">
         <img src="https://badgen.net/npm/v/ckeditor5-build-strapi">
@@ -19,7 +19,7 @@
         <img src="https://badgen.net/npm/dt/ckeditor5-build-strapi">
     </a>
     <a href="/LICENSE">
-        <img src="https://badgen.net/github/license/webkitty/ckeditor5-build-strapi">
+        <img src="https://badgen.net/github/license/f00b4r/ckeditor5-build-strapi">
     </a>
 </p>
 
